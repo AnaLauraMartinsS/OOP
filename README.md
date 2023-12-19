@@ -1,4 +1,4 @@
-# Curso de Programação Orientada a Objetos em JAVA 🍵
+# Curso de Programação Orientada a Objetos feito em JAVA 🍵
  1 - O que é um objeto.
  
  2 - Criando Classes e Objetos.
