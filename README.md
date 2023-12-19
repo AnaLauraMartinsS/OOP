@@ -14,6 +14,8 @@
  5 - Métodos especiais.
  
  6 - Métodos Getters, Setter e Constructor.
+ 
+ <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Get_Set_Constructor">Métodos Getter, Setters e Constructor</a>
 
  ## Exercícios feitos ✔️
 
