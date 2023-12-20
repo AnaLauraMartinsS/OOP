@@ -8,9 +8,9 @@ public class Caneta {
 
     //MÉTODO CONSTRUTOR
     public Caneta(String m, String c, float p){
-        this.ponta=p;
-        this.modelo = m;
-        this.cor=c;
+        this.setPonta(p);
+        this.setModelo(m);
+        this.setCor(c);
         this.tampar();
 
     }
@@ -25,23 +25,41 @@ public class Caneta {
 
     //MÉTODOS GET E SET
 
-    public String getModelo(){
-        return this.modelo;
+
+    public String getModelo() {
+        return modelo;
     }
 
-    public void setModelo(String m){
-        this.modelo = m;
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
     }
 
-    public float getPonta(){
-        return this.ponta;
+    public float getPonta() {
+        return ponta;
     }
 
-    public void setPonta(float p){
-        this.ponta = p;
+    public void setPonta(float ponta) {
+        this.ponta = ponta;
+    }
+
+    public String getCor() {
+        return cor;
+    }
+
+    public void setCor(String cor) {
+        this.cor = cor;
+    }
+
+    public boolean isTampada() {
+        return tampada;
+    }
+
+    public void setTampada(boolean tampada) {
+        this.tampada = tampada;
     }
 
     public void tampar(){
+
         this.tampada = true;
     }
 
