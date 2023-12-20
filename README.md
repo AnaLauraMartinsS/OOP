@@ -17,6 +17,14 @@
  
  <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Get_Set_Constructor">Métodos Getter, Setters e Constructor</a>
 
+ 7 - Exemplo prático com Objetos.
+ 
+ 8 - Exemplo de uma conta de banco.
+
+ <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio02">Exemplo prático</a>
+
+ 
+
  ## Exercícios feitos ✔️
 
 <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio">Todos os exercicíos</a>
