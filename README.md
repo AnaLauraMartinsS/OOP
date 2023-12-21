@@ -22,8 +22,20 @@
  8 - Exemplo de uma conta de banco.
 
  <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio02">Exemplo prático</a>
-
  
+ 9 - Pilares do OOP.
+ 
+ 10 - Encapsulamento.
+
+  <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio03">Exemplo prático</a>
+
+  11 - Relacionamento entre Classes.
+
+  12- Objetos Compostos em Java.
+
+ <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio04">Exemplo prático</a>
+  
+  
 
  ## Exercícios feitos ✔️
 
