@@ -20,7 +20,7 @@ public class Main {
         pessoa2.depositar(500);
         pessoa2.sacar(100);
 
-        
+
         pessoa1.estadoAtual();
         pessoa2.estadoAtual();
 
