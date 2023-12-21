@@ -39,4 +39,4 @@
 
  ## Exercícios feitos ✔️
 
-<a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio">Todos os exercicíos</a>
+<a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio">Todos os exercicíos</a>
