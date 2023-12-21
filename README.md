@@ -36,7 +36,3 @@
  <a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio/Exercicio04">Exemplo prático</a>
   
   
-
- ## Exercícios feitos ✔️
-
-<a href="https://github.com/AnaLauraMartinsS/OOP/tree/main/Exercicio">Todos os exercicíos</a>
