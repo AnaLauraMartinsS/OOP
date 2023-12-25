@@ -3,7 +3,9 @@ public class Funcionario extends Pessoa {
     private boolean trabalhando;
 
     public void mudarTrabalho(){
+
         this.trabalhando = ! this.trabalhando;
+        System.out.println("Trabalho foi mudado.");
     }
 
     public String getSetor() {

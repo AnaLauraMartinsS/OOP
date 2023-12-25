@@ -3,7 +3,9 @@ public class Professor extends Pessoa {
     private float salario;
 
     public void receberAumento(float aumento){
+
         this.salario += aumento;
+        System.out.println("Você recebeu um aumento!");
     }
 
     public String getEspecialidade() {
