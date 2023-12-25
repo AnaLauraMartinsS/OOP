@@ -120,9 +120,9 @@ public class Lutador {
         System.out.println("EMPATES: "+ this.getEmpates());
     }
 
-    public void status(){
+    public void statusDaLuta(){
         System.out.println("---- STATUS ----");
-        System.out.println(getNome());
+        System.out.println(this.getNome());
         System.out.println("É PESO: "+ this.getCategoria());
         System.out.println(this.getVitorias() + " VITÓRIAS");
         System.out.println(this.getDerrotas() + " DERROTAS");
