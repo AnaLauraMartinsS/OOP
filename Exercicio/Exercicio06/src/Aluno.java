@@ -26,7 +26,10 @@ public class Aluno extends Pessoa{
     public String toString() {
         return "Aluno{" +
                 "Matricula=" + Matricula +
-                ", curso='" + curso + '\'' +
+                " curso='" + curso + '\'' +
+                " nome= " + getNome() +
+                " idade = "+ getIdade() +
+                " sexo = "+ getSexo() +
                 '}';
     }
 }

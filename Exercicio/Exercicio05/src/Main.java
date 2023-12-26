@@ -8,30 +8,22 @@ public class Main {
         Funcionario p4 = new Funcionario();
 
         p1.setNome("Carol");
-        p1.setIdade(39);
-        p1.setSexo('F');
-
-
         p2.setNome("Joana");
-        p2.setIdade(30);
-        p2.setSexo('F');
-
-
         p3.setNome("Dona");
-        p3.setIdade(30);
-        p3.setSexo('F');
-
-
         p4.setNome("Camila");
-        p4.setIdade(30);
-        p4.setSexo('F');
-
 
         p1.fazAniversario();
         p2.cancelarMatricula();
         p3.receberAumento(300f);
         p4.mudarTrabalho();
 
+        p1.setSexo("F");
+        p4.setSexo("F");
+        p2.setIdade(20);
+
+        p2.setCurso("Artes visuais");
+        p3.setSalario(2500.7f);
+        p4.setSetor("Estoque");
 
         System.out.println(p1.toString());
         System.out.println(p2.toString());
